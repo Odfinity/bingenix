@@ -1,0 +1,1272 @@
+{
+  "players": [
+    {
+      "name": "Rohit Sharma",
+      "type": "batsman",
+      "price": 11,
+      "team": "Delhi",
+      "nationality": "Indian",
+      "time": 1747817021863
+    },
+    {
+      "name": "Shreyash Iyer",
+      "type": "batsman",
+      "price": 20,
+      "team": "Amritsar",
+      "nationality": "Indian",
+      "time": 1747817154005
+    },
+    {
+      "name": "Suryakumar Yadav",
+      "type": "batsman",
+      "price": 16,
+      "team": "Himachal",
+      "nationality": "Indian",
+      "time": 1747817196116
+    },
+    {
+      "name": "Jasprit Bumrah",
+      "type": "batsman",
+      "price": 22.5,
+      "team": "Andhra",
+      "nationality": "Indian",
+      "time": 1747818239827
+    },
+    {
+      "name": "Andre Russell",
+      "type": "allrounder",
+      "price": 12.5,
+      "team": "Buster",
+      "nationality": "Overseas",
+      "time": 1747818292207
+    },
+    {
+      "name": "Shubman Gill",
+      "type": "batsman",
+      "price": 16,
+      "team": "Himachal",
+      "nationality": "Indian",
+      "time": 1747818478385
+    },
+    {
+      "name": "Nicholas Pooran",
+      "type": "batsman",
+      "price": 19,
+      "team": "Ahmedabad",
+      "nationality": "Overseas",
+      "time": 1747818576911
+    },
+    {
+      "name": "David Miller",
+      "type": "batsman",
+      "price": 9.5,
+      "team": "Amritsar",
+      "nationality": "Overseas",
+      "time": 1747818618926
+    },
+    {
+      "name": "Rashid Khan",
+      "type": "bowler",
+      "price": 14.5,
+      "team": "Purvanchal",
+      "nationality": "Overseas",
+      "time": 1747818787367
+    },
+    {
+      "name": "Virat Kohli",
+      "type": "batsman",
+      "price": 46,
+      "team": "Ahmedabad",
+      "nationality": "Indian",
+      "time": 1747818808848
+    },
+    {
+      "name": "Arshdeep Singh",
+      "type": "bowler",
+      "price": 20,
+      "team": "Amritsar",
+      "nationality": "Indian",
+      "time": 1747818839022
+    },
+    {
+      "name": "Mahendra Singh Dhoni",
+      "type": "wk",
+      "price": 10.5,
+      "team": "Delhi",
+      "nationality": "Indian",
+      "time": 1747818864569
+    },
+    {
+      "name": "Yuzvendra Chahal",
+      "type": "bowler",
+      "price": 17,
+      "team": "Buster",
+      "nationality": "Indian",
+      "time": 1747818916593
+    },
+    {
+      "name": "Tilak Verma",
+      "type": "batsman",
+      "price": 12,
+      "team": "Amritsar",
+      "nationality": "Indian",
+      "time": 1747818941245
+    },
+    {
+      "name": "Tristan Stubbs",
+      "type": "batsman",
+      "price": 15,
+      "team": "Amritsar",
+      "nationality": "Overseas",
+      "time": 1747822223072
+    },
+    {
+      "name": "Hardik Pandya",
+      "type": "allrounder",
+      "price": 26,
+      "team": "Andhra",
+      "nationality": "Indian",
+      "time": 1747822266885
+    },
+    {
+      "name": "Mohammed Siraj",
+      "type": "bowler",
+      "price": 11,
+      "team": "Purvanchal",
+      "nationality": "Indian",
+      "time": 1747822327582
+    },
+    {
+      "name": "Travis Head",
+      "type": "batsman",
+      "price": 18,
+      "team": "Amritsar",
+      "nationality": "Overseas",
+      "time": 1747822373587
+    },
+    {
+      "name": "KL Rahul",
+      "type": "wk",
+      "price": 17.5,
+      "team": "Buster",
+      "nationality": "Indian",
+      "time": 1747822408372
+    },
+    {
+      "name": "Kuldeep Yadav",
+      "type": "bowler",
+      "price": 10.25,
+      "team": "Indore",
+      "nationality": "Indian",
+      "time": 1747822542166
+    },
+    {
+      "name": "Ruturaj Gaikwad",
+      "type": "batsman",
+      "price": 14,
+      "team": "Meerut",
+      "nationality": "Indian",
+      "time": 1747822773422
+    },
+    {
+      "name": "Mitchell Starc",
+      "type": "bowler",
+      "price": 16.5,
+      "team": "Indore",
+      "nationality": "Overseas",
+      "time": 1747823003840
+    },
+    {
+      "name": "Abhishek Sharma",
+      "type": "batsman",
+      "price": 14.5,
+      "team": "Delhi",
+      "nationality": "Indian",
+      "time": 1747823162952
+    },
+    {
+      "name": "Heinrich Klaasen",
+      "type": "wk",
+      "price": 12,
+      "team": "Meerut",
+      "nationality": "Overseas",
+      "time": 1747823508268
+    },
+    {
+      "name": "Axar Patel",
+      "type": "allrounder",
+      "price": 15,
+      "team": "Andhra",
+      "nationality": "Indian",
+      "time": 1747823816099
+    },
+    {
+      "name": "Nitish Kumar Reddy",
+      "type": "allrounder",
+      "price": 10,
+      "team": "Andhra",
+      "nationality": "Indian",
+      "time": 1747841129145
+    },
+    {
+      "name": "Riyan Parag",
+      "type": "batsman",
+      "price": 9.75,
+      "team": "Purvanchal",
+      "nationality": "Indian",
+      "time": 1747841154295
+    },
+    {
+      "name": "Ravindra Jadeja",
+      "type": "allrounder",
+      "price": 14.5,
+      "team": "Meerut",
+      "nationality": "Indian",
+      "time": 1747841179672
+    },
+    {
+      "name": "Liam Livingstone",
+      "type": "allrounder",
+      "price": 4.5,
+      "team": "Patna",
+      "nationality": "Overseas",
+      "time": 1747841203364
+    },
+    {
+      "name": "Sunil Narine",
+      "type": "allrounder",
+      "price": 19,
+      "team": "Andhra",
+      "nationality": "Overseas",
+      "time": 1747841250516
+    },
+    {
+      "name": "Kagiso Rabada",
+      "type": "bowler",
+      "price": 10.5,
+      "team": "Patna",
+      "nationality": "Overseas",
+      "time": 1747841270779
+    },
+    {
+      "name": "Rajat Patidar",
+      "type": "batsman",
+      "price": 13.5,
+      "team": "Patna",
+      "nationality": "Indian",
+      "time": 1747841597967
+    },
+    {
+      "name": "Yashasvi Jaiswal",
+      "type": "batsman",
+      "price": 15,
+      "team": "Indore",
+      "nationality": "Indian",
+      "time": 1747841911874
+    },
+    {
+      "name": "Pat Cummins",
+      "type": "allrounder",
+      "price": 9.5,
+      "team": "Delhi",
+      "nationality": "Overseas",
+      "time": 1747841941469
+    },
+    {
+      "name": "Varun Chakaravarthy",
+      "type": "bowler",
+      "price": 10,
+      "team": "Indore",
+      "nationality": "Indian",
+      "time": 1747842071027
+    },
+    {
+      "name": "Jofra Archer",
+      "type": "bowler",
+      "price": 7,
+      "team": "Indore",
+      "nationality": "Overseas",
+      "time": 1747845425183
+    },
+    {
+      "name": "Mohammed Shami",
+      "type": "bowler",
+      "price": 9.5,
+      "team": "Buster",
+      "nationality": "Indian",
+      "time": 1747845482522
+    },
+    {
+      "name": "Shivam Dube",
+      "type": "allrounder",
+      "price": 9.75,
+      "team": "Indore",
+      "nationality": "Indian",
+      "time": 1747846258838
+    },
+    {
+      "name": "Rishabh Pant",
+      "type": "wk",
+      "price": 7.5,
+      "team": "Andhra",
+      "nationality": "Indian",
+      "time": 1747846298148
+    },
+    {
+      "name": "Sanju Samson",
+      "type": "wk",
+      "price": 7,
+      "team": "Indore",
+      "nationality": "Indian",
+      "time": 1747846322866
+    },
+    {
+      "name": "Jos Butller",
+      "type": "wk",
+      "price": 17,
+      "team": "Himachal",
+      "nationality": "Overseas",
+      "time": 1747846366558
+    },
+    {
+      "name": "Shimron Hetmyer",
+      "type": "batsman",
+      "price": 2,
+      "team": "Ahmedabad",
+      "nationality": "Overseas",
+      "time": 1747846410595
+    },
+    {
+      "name": "Devdutt Padikkal",
+      "type": "batsman",
+      "price": 5,
+      "team": "Patna",
+      "nationality": "Indian",
+      "time": 1747846450947
+    },
+    {
+      "name": "Aiden Markram",
+      "type": "batsman",
+      "price": 5.25,
+      "team": "Purvanchal",
+      "nationality": "Overseas",
+      "time": 1747846473510
+    },
+    {
+      "name": "Harry Brook",
+      "type": "batsman",
+      "price": 2,
+      "team": "Ahmedabad",
+      "nationality": "Overseas",
+      "time": 1747846490890
+    },
+    {
+      "name": "Jake Fraser McGurk",
+      "type": "batsman",
+      "price": 2,
+      "team": "Amritsar",
+      "nationality": "Overseas",
+      "time": 1747846523931
+    },
+    {
+      "name": "Rahul Tripathi",
+      "type": "batsman",
+      "price": 2,
+      "team": "Buster",
+      "nationality": "Indian",
+      "time": 1747846548766
+    },
+    {
+      "name": "Sai Sudarshan",
+      "type": "batsman",
+      "price": 12,
+      "team": "Purvanchal",
+      "nationality": "Indian",
+      "time": 1747846593976
+    },
+    {
+      "name": "Devon Conway",
+      "type": "wk",
+      "price": 2,
+      "team": "Amritsar",
+      "nationality": "Overseas",
+      "time": 1747846633468
+    },
+    {
+      "name": "David Warner",
+      "type": "batsman",
+      "price": 19,
+      "team": "Buster",
+      "nationality": "Overseas",
+      "time": 1747846658348
+    },
+    {
+      "name": "Rinku Singh",
+      "type": "batsman",
+      "price": 9,
+      "team": "Indore",
+      "nationality": "Indian",
+      "time": 1747846913384
+    },
+    {
+      "name": "Ravichandran Ashwin ",
+      "type": "allrounder",
+      "price": 7,
+      "team": "Delhi",
+      "nationality": "Indian",
+      "time": 1747903196933
+    },
+    {
+      "name": "Marcus Stoinis ",
+      "type": "allrounder",
+      "price": 8.5,
+      "team": "Patna",
+      "nationality": "Overseas",
+      "time": 1747903221869
+    },
+    {
+      "name": "Glenn Maxwell ",
+      "type": "allrounder",
+      "price": 8.5,
+      "team": "Indore",
+      "nationality": "Overseas",
+      "time": 1747903293469
+    },
+    {
+      "name": "Harshal Patel ",
+      "type": "allrounder",
+      "price": 9,
+      "team": "Delhi",
+      "nationality": "Indian",
+      "time": 1747903316789
+    },
+    {
+      "name": "Venkatesh Iyer ",
+      "type": "allrounder",
+      "price": 4.5,
+      "team": "Indore",
+      "nationality": "Indian",
+      "time": 1747903343333
+    },
+    {
+      "name": "Rachin Ravindra ",
+      "type": "allrounder",
+      "price": 2.5,
+      "team": "Ahmedabad",
+      "nationality": "Overseas",
+      "time": 1747903395685
+    },
+    {
+      "name": "Mitchell Marsh ",
+      "type": "allrounder",
+      "price": 4,
+      "team": "Indore",
+      "nationality": "Overseas",
+      "time": 1747903415285
+    },
+    {
+      "name": "Ramandeep Singh ",
+      "type": "allrounder",
+      "price": 2,
+      "team": "Patna",
+      "nationality": "Indian",
+      "time": 1747903812693
+    },
+    {
+      "name": "Cameron Green ",
+      "type": "allrounder",
+      "price": 4.5,
+      "team": "Indore",
+      "nationality": "Overseas",
+      "time": 1747903841261
+    },
+    {
+      "name": "Wanindu Hasaranga ",
+      "type": "allrounder",
+      "price": 3.75,
+      "team": "Amritsar",
+      "nationality": "Overseas",
+      "time": 1747903876253
+    },
+    {
+      "name": "Ishan Kishan ",
+      "type": "wk",
+      "price": 6.75,
+      "team": "Andhra",
+      "nationality": "Indian",
+      "time": 1747904037853
+    },
+    {
+      "name": "Phil Salt",
+      "type": "wk",
+      "price": 6.75,
+      "team": "Patna",
+      "nationality": "Overseas",
+      "time": 1747904242981
+    },
+    {
+      "name": "Quinton DE Cock ",
+      "type": "wk",
+      "price": 7.25,
+      "team": "Buster",
+      "nationality": "Overseas",
+      "time": 1747904282269
+    },
+    {
+      "name": "Jonny Bairstow",
+      "type": "wk",
+      "price": 3,
+      "team": "Delhi",
+      "nationality": "Overseas",
+      "time": 1747904326877
+    },
+    {
+      "name": "Dhruv Jurel ",
+      "type": "wk",
+      "price": 5,
+      "team": "Andhra",
+      "nationality": "Indian",
+      "time": 1747904803437
+    },
+    {
+      "name": "Jitesh Sharma",
+      "type": "wk",
+      "price": 11,
+      "team": "Ahmedabad",
+      "nationality": "Indian",
+      "time": 1747905011989
+    },
+    {
+      "name": "Khaleel Ahmed",
+      "type": "bowler",
+      "price": 3,
+      "team": "Ahmedabad",
+      "nationality": "Indian",
+      "time": 1747907458526
+    },
+    {
+      "name": "Trent Boult ",
+      "type": "bowler",
+      "price": 11.75,
+      "team": "Buster",
+      "nationality": "Overseas",
+      "time": 1747907481774
+    },
+    {
+      "name": "T Natrajan ",
+      "type": "bowler",
+      "price": 7.75,
+      "team": "Ahmedabad",
+      "nationality": "Indian",
+      "time": 1747907517166
+    },
+    {
+      "name": "Prasidh Krishna ",
+      "type": "bowler",
+      "price": 11,
+      "team": "Purvanchal",
+      "nationality": "Indian",
+      "time": 1747907547142
+    },
+    {
+      "name": "Avesh Khan ",
+      "type": "bowler",
+      "price": 3.5,
+      "team": "Amritsar",
+      "nationality": "Indian",
+      "time": 1747907582422
+    },
+    {
+      "name": "Josh Hazlewood ",
+      "type": "bowler",
+      "price": 19.5,
+      "team": "Patna",
+      "nationality": "Overseas",
+      "time": 1747907607918
+    },
+    {
+      "name": "Anrich Nortje",
+      "type": "bowler",
+      "price": 4,
+      "team": "Purvanchal",
+      "nationality": "Overseas",
+      "time": 1747908255638
+    },
+    {
+      "name": "Harshit Rana ",
+      "type": "bowler",
+      "price": 5,
+      "team": "Himachal",
+      "nationality": "Indian",
+      "time": 1747908284430
+    },
+    {
+      "name": "Mateesha Pathirana ",
+      "type": "bowler",
+      "price": 3.5,
+      "team": "Ahmedabad",
+      "nationality": "Overseas",
+      "time": 1747908427678
+    },
+    {
+      "name": "Noor Ahmad ",
+      "type": "bowler",
+      "price": 8,
+      "team": "Himachal",
+      "nationality": "Overseas",
+      "time": 1747909478198
+    },
+    {
+      "name": "Rahul Chahar",
+      "type": "bowler",
+      "price": 2.75,
+      "team": "Buster",
+      "nationality": "Indian",
+      "time": 1747909501726
+    },
+    {
+      "name": "Ravi Bishnoi ",
+      "type": "bowler",
+      "price": 5,
+      "team": "Delhi",
+      "nationality": "Indian",
+      "time": 1747909523974
+    },
+    {
+      "name": "Waqar Salamkheil ",
+      "type": "bowler",
+      "price": 2.25,
+      "team": "Patna",
+      "nationality": "Overseas",
+      "time": 1747909546406
+    },
+    {
+      "name": "Maheesh Theeksana",
+      "type": "bowler",
+      "price": 2,
+      "team": "Ahmedabad",
+      "nationality": "Overseas",
+      "time": 1747909592934
+    },
+    {
+      "name": "R Sai Kishore ",
+      "type": "bowler",
+      "price": 5.25,
+      "team": "Purvanchal",
+      "nationality": "Indian",
+      "time": 1747909622566
+    },
+    {
+      "name": "Yash Dhull",
+      "type": "batsman",
+      "price": 1,
+      "team": "Purvanchal",
+      "nationality": "Indian",
+      "time": 1747911167766
+    },
+    {
+      "name": "Abhinav Manohar ",
+      "type": "batsman",
+      "price": 2,
+      "team": "Delhi",
+      "nationality": "Indian",
+      "time": 1747911209943
+    },
+    {
+      "name": "Karun Nair",
+      "type": "batsman",
+      "price": 3,
+      "team": "Amritsar",
+      "nationality": "Indian",
+      "time": 1747911227670
+    },
+    {
+      "name": "Anmolpreet Singh ",
+      "type": "batsman",
+      "price": 0.3,
+      "team": "Patna",
+      "nationality": "Indian",
+      "time": 1747911269014
+    },
+    {
+      "name": "Atharva Taide",
+      "type": "batsman",
+      "price": 0.6,
+      "team": "Himachal",
+      "nationality": "Indian",
+      "time": 1747911291246
+    },
+    {
+      "name": "Ashutosh Sharma",
+      "type": "batsman",
+      "price": 3,
+      "team": "Indore",
+      "nationality": "Indian",
+      "time": 1747911376118
+    },
+    {
+      "name": "Abdul Samad",
+      "type": "allrounder",
+      "price": 1.25,
+      "team": "Delhi",
+      "nationality": "Indian",
+      "time": 1747911411510
+    },
+    {
+      "name": "Shashank Singh ",
+      "type": "batsman",
+      "price": 6.5,
+      "team": "Himachal",
+      "nationality": "Indian",
+      "time": 1747911528406
+    },
+    {
+      "name": "Angkrish Raghuvanshi ",
+      "type": "batsman",
+      "price": 1.25,
+      "team": "Delhi",
+      "nationality": "Indian",
+      "time": 1747911563398
+    },
+    {
+      "name": "Nehal Wadhera ",
+      "type": "allrounder",
+      "price": 5.25,
+      "team": "Patna",
+      "nationality": "Indian",
+      "time": 1747911595774
+    },
+    {
+      "name": "Aniket Verma ",
+      "type": "batsman",
+      "price": 1.5,
+      "team": "Purvanchal",
+      "nationality": "Indian",
+      "time": 1747911624982
+    },
+    {
+      "name": "Priyansh Arya ",
+      "type": "batsman",
+      "price": 5.25,
+      "team": "Patna",
+      "nationality": "Indian",
+      "time": 1747911642422
+    },
+    {
+      "name": "Shubham Dubey ",
+      "type": "batsman",
+      "price": 1.6,
+      "team": "Himachal",
+      "nationality": "Indian",
+      "time": 1747911684182
+    },
+    {
+      "name": "Harpreet Brar",
+      "type": "bowler",
+      "price": 2.5,
+      "team": "Ahmedabad",
+      "nationality": "Indian",
+      "time": 1747924812043
+    },
+    {
+      "name": "Naman Dhir",
+      "type": "batsman",
+      "price": 3,
+      "team": "Ahmedabad",
+      "nationality": "Indian",
+      "time": 1747924981687
+    },
+    {
+      "name": "Mahipal Lomror",
+      "type": "allrounder",
+      "price": 0.5,
+      "team": "Delhi",
+      "nationality": "Indian",
+      "time": 1747925063334
+    },
+    {
+      "name": "Sameer Rizwi",
+      "type": "wk",
+      "price": 0.75,
+      "team": "Patna",
+      "nationality": "Indian",
+      "time": 1747925278911
+    },
+    {
+      "name": "Vijay Shankar",
+      "type": "batsman",
+      "price": 1,
+      "team": "Buster",
+      "nationality": "Indian",
+      "time": 1747925308480
+    },
+    {
+      "name": "Nishanth Sindhu",
+      "type": "batsman",
+      "price": 0.4,
+      "team": "Patna",
+      "nationality": "Indian",
+      "time": 1747925422179
+    },
+    {
+      "name": "Utkarsh Singh",
+      "type": "allrounder",
+      "price": 0.3,
+      "team": "Buster",
+      "nationality": "Indian",
+      "time": 1747925937728
+    },
+    {
+      "name": "Shahrukh Khan",
+      "type": "batsman",
+      "price": 1,
+      "team": "Delhi",
+      "nationality": "Indian",
+      "time": 1747925959983
+    },
+    {
+      "name": "Rahul Tewatiya",
+      "type": "batsman",
+      "price": 1.5,
+      "team": "Purvanchal",
+      "nationality": "Indian",
+      "time": 1747925993103
+    },
+    {
+      "name": "Ayush Badoni",
+      "type": "batsman",
+      "price": 3.25,
+      "team": "Himachal",
+      "nationality": "Indian",
+      "time": 1747926061633
+    },
+    {
+      "name": "Vipraj Nigam",
+      "type": "allrounder",
+      "price": 1.75,
+      "team": "Amritsar",
+      "nationality": "Indian",
+      "time": 1747926121044
+    },
+    {
+      "name": "Arshad Khan",
+      "type": "bowler",
+      "price": 1,
+      "team": "Amritsar",
+      "nationality": "Indian",
+      "time": 1747926220640
+    },
+    {
+      "name": "Aryan Juyal",
+      "type": "wk",
+      "price": 0.3,
+      "team": "Amritsar",
+      "nationality": "Indian",
+      "time": 1747926302792
+    },
+    {
+      "name": "Kumar Kushagra",
+      "type": "wk",
+      "price": 0.55,
+      "team": "Ahmedabad",
+      "nationality": "Indian",
+      "time": 1747926355382
+    },
+    {
+      "name": "Robin Minz",
+      "type": "batsman",
+      "price": 0.6,
+      "team": "Patna",
+      "nationality": "Indian",
+      "time": 1747930077315
+    },
+    {
+      "name": "Anuj Rawat",
+      "type": "wk",
+      "price": 1.25,
+      "team": "Indore",
+      "nationality": "Indian",
+      "time": 1747930103491
+    },
+    {
+      "name": "Luvnith Sisodiya",
+      "type": "wk",
+      "price": 0.3,
+      "team": "Patna",
+      "nationality": "Indian",
+      "time": 1747930170367
+    },
+    {
+      "name": "Vishnu Vinod",
+      "type": "wk",
+      "price": 0.3,
+      "team": "Ahmedabad",
+      "nationality": "Indian",
+      "time": 1747930262391
+    },
+    {
+      "name": "Abhishek Porel",
+      "type": "batsman",
+      "price": 2.25,
+      "team": "Indore",
+      "nationality": "Indian",
+      "time": 1747930300933
+    },
+    {
+      "name": "Prabhdsimran Singh",
+      "type": "wk",
+      "price": 4.75,
+      "team": "Purvanchal",
+      "nationality": "Indian",
+      "time": 1747930381404
+    },
+    {
+      "name": "Harvik Desai",
+      "type": "wk",
+      "price": 0.3,
+      "team": "Himachal",
+      "nationality": "Indian",
+      "time": 1747930428934
+    },
+    {
+      "name": "Vaibhav Arora",
+      "type": "bowler",
+      "price": 2.75,
+      "team": "Purvanchal",
+      "nationality": "Indian",
+      "time": 1747930537730
+    },
+    {
+      "name": "Rashikh Dar Salam",
+      "type": "bowler",
+      "price": 0.75,
+      "team": "Patna",
+      "nationality": "Indian",
+      "time": 1747930615159
+    },
+    {
+      "name": "Akash Madhwal",
+      "type": "bowler",
+      "price": 1,
+      "team": "Himachal",
+      "nationality": "Indian",
+      "time": 1747930835961
+    },
+    {
+      "name": "Mohit Sharma",
+      "type": "bowler",
+      "price": 1,
+      "team": "Delhi",
+      "nationality": "Indian",
+      "time": 1747931007401
+    },
+    {
+      "name": "Simarjeet Singh",
+      "type": "bowler",
+      "price": 0.45,
+      "team": "Himachal",
+      "nationality": "Indian",
+      "time": 1747931060224
+    },
+    {
+      "name": "Yash Thakur",
+      "type": "bowler",
+      "price": 0.7,
+      "team": "Andhra",
+      "nationality": "Indian",
+      "time": 1747972281193
+    },
+    {
+      "name": "Kartik Tyagi",
+      "type": "bowler",
+      "price": 0.5,
+      "team": "Ahmedabad",
+      "nationality": "Indian",
+      "time": 1747972309061
+    },
+    {
+      "name": "Vyshak Vijay Kumar",
+      "type": "bowler",
+      "price": 0.6,
+      "team": "Delhi",
+      "nationality": "Indian",
+      "time": 1747972352938
+    },
+    {
+      "name": "Yash Dayal",
+      "type": "bowler",
+      "price": 3.25,
+      "team": "Patna",
+      "nationality": "Indian",
+      "time": 1747972370295
+    },
+    {
+      "name": "Mohsin Khan",
+      "type": "bowler",
+      "price": 0.85,
+      "team": "Indore",
+      "nationality": "Indian",
+      "time": 1747972390860
+    },
+    {
+      "name": "Sandeep Sharma",
+      "type": "bowler",
+      "price": 2,
+      "team": "Buster",
+      "nationality": "Indian",
+      "time": 1747972419436
+    },
+    {
+      "name": "Prince Yadav",
+      "type": "bowler",
+      "price": 0.75,
+      "team": "Amritsar",
+      "nationality": "Indian",
+      "time": 1747972457009
+    },
+    {
+      "name": "Ashwini Kumar",
+      "type": "bowler",
+      "price": 0.7,
+      "team": "Amritsar",
+      "nationality": "Indian",
+      "time": 1747972475203
+    },
+    {
+      "name": "Shreyash Gopal",
+      "type": "bowler",
+      "price": 0.95,
+      "team": "Meerut",
+      "nationality": "Indian",
+      "time": 1748083578721
+    },
+    {
+      "name": "Mayank Markande",
+      "type": "bowler",
+      "price": 1.25,
+      "team": "Patna",
+      "nationality": "Indian",
+      "time": 1748083603059
+    },
+    {
+      "name": "Karn Sharma",
+      "type": "bowler",
+      "price": 2.5,
+      "team": "Buster",
+      "nationality": "Indian",
+      "time": 1748083629049
+    },
+    {
+      "name": "Kumar Kartikeya",
+      "type": "bowler",
+      "price": 0.5,
+      "team": "Amritsar",
+      "nationality": "Indian",
+      "time": 1748083698720
+    },
+    {
+      "name": "Manav Suther",
+      "type": "batsman",
+      "price": 0.4,
+      "team": "Meerut",
+      "nationality": "Indian",
+      "time": 1748083714900
+    },
+    {
+      "name": "Suyash Sharma",
+      "type": "bowler",
+      "price": 4,
+      "team": "Meerut",
+      "nationality": "Indian",
+      "time": 1748083734504
+    },
+    {
+      "name": "Vignesh Puthur",
+      "type": "bowler",
+      "price": 1,
+      "team": "Indore",
+      "nationality": "Indian",
+      "time": 1748083772836
+    },
+    {
+      "name": "Digvesh Rathi",
+      "type": "bowler",
+      "price": 1,
+      "team": "Ahmedabad",
+      "nationality": "Indian",
+      "time": 1748083948514
+    },
+    {
+      "name": "Faf DuPlesis",
+      "type": "batsman",
+      "price": 4.25,
+      "team": "Purvanchal",
+      "nationality": "Overseas",
+      "time": 1748083980954
+    },
+    {
+      "name": "Glenn Phillips",
+      "type": "allrounder",
+      "price": 3.5,
+      "team": "Indore",
+      "nationality": "Overseas",
+      "time": 1748084007560
+    },
+    {
+      "name": "Povman Powel",
+      "type": "batsman",
+      "price": 1.75,
+      "team": "Purvanchal",
+      "nationality": "Overseas",
+      "time": 1748084122816
+    },
+    {
+      "name": "Prithvi Shaw",
+      "type": "batsman",
+      "price": 1.5,
+      "team": "Delhi",
+      "nationality": "Indian",
+      "time": 1748084152047
+    },
+    {
+      "name": "Kane Williamson",
+      "type": "batsman",
+      "price": 2,
+      "team": "Purvanchal",
+      "nationality": "Overseas",
+      "time": 1748084183955
+    },
+    {
+      "name": "Ajinkya Rahane",
+      "type": "batsman",
+      "price": 3.5,
+      "team": "Buster",
+      "nationality": "Indian",
+      "time": 1748084248345
+    },
+    {
+      "name": "Tim David",
+      "type": "allrounder",
+      "price": 16,
+      "team": "Delhi",
+      "nationality": "Overseas",
+      "time": 1748084317409
+    },
+    {
+      "name": "Dewald Brevis",
+      "type": "batsman",
+      "price": 2,
+      "team": "Delhi",
+      "nationality": "Overseas",
+      "time": 1748084366457
+    },
+    {
+      "name": "Sam Curran",
+      "type": "allrounder",
+      "price": 1,
+      "team": "Delhi",
+      "nationality": "Overseas",
+      "time": 1748084456487
+    },
+    {
+      "name": "Marco Jansen",
+      "type": "allrounder",
+      "price": 6.75,
+      "team": "Patna",
+      "nationality": "Overseas",
+      "time": 1748084490803
+    },
+    {
+      "name": "Shardul Thakur",
+      "type": "allrounder",
+      "price": 5,
+      "team": "Buster",
+      "nationality": "Indian",
+      "time": 1748084579723
+    },
+    {
+      "name": "Washington Sundar",
+      "type": "allrounder",
+      "price": 3,
+      "team": "Indore",
+      "nationality": "Indian",
+      "time": 1748084608070
+    },
+    {
+      "name": "Sherfane Rutherford",
+      "type": "allrounder",
+      "price": 2.5,
+      "team": "Patna",
+      "nationality": "Overseas",
+      "time": 1748084662863
+    },
+    {
+      "name": "Will Jacks",
+      "type": "allrounder",
+      "price": 2,
+      "team": "Delhi",
+      "nationality": "Overseas",
+      "time": 1748084947393
+    },
+    {
+      "name": "Jacob Bethell",
+      "type": "allrounder",
+      "price": 2,
+      "team": "Delhi",
+      "nationality": "Overseas",
+      "time": 1748084961732
+    },
+    {
+      "name": "Romario Shepherd",
+      "type": "allrounder",
+      "price": 1.25,
+      "team": "Purvanchal",
+      "nationality": "Overseas",
+      "time": 1748085003721
+    },
+    {
+      "name": "Shahbaz Ahmed",
+      "type": "bowler",
+      "price": 0.9,
+      "team": "Buster",
+      "nationality": "Indian",
+      "time": 1748085153253
+    },
+    {
+      "name": "KS Bharat",
+      "type": "wk",
+      "price": 0.5,
+      "team": "Delhi",
+      "nationality": "Indian",
+      "time": 1748085179879
+    },
+    {
+      "name": "Josh Inglis",
+      "type": "wk",
+      "price": 2,
+      "team": "Purvanchal",
+      "nationality": "Overseas",
+      "time": 1748085220558
+    },
+    {
+      "name": "Ryan Rickelton",
+      "type": "wk",
+      "price": 0.95,
+      "team": "Ahmedabad",
+      "nationality": "Overseas",
+      "time": 1748085328999
+    }
+  ],
+  "purse": {
+    "Delhi": 17.9,
+    "Amritsar": 6.249999999999999,
+    "Himachal": 44.3,
+    "Andhra": 7.55,
+    "Buster": 5.549999999999999,
+    "Ahmedabad": 12.45,
+    "Purvanchal": 24.5,
+    "Indore": -0.8499999999999996,
+    "Meerut": 74.14999999999999,
+    "Patna": 20.15
+  }
+}
