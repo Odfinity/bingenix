@@ -1255,18 +1255,266 @@
       "team": "Ahmedabad",
       "nationality": "Overseas",
       "time": 1748085328999
+    },
+    {
+      "name": "Deepak Chahar",
+      "type": "allrounder",
+      "price": 5.75,
+      "team": "Patna",
+      "nationality": "Indian",
+      "time": 1748224852067
+    },
+    {
+      "name": "Akashdeep",
+      "type": "bowler",
+      "price": 2,
+      "team": "Delhi",
+      "nationality": "Indian",
+      "time": 1748224908899
+    },
+    {
+      "name": "Lockie Ferguson ",
+      "type": "bowler",
+      "price": 1.5,
+      "team": "Delhi",
+      "nationality": "Indian",
+      "time": 1748225071203
+    },
+    {
+      "name": "Bhuvneshwar Kumar ",
+      "type": "bowler",
+      "price": 14.5,
+      "team": "Purvanchal",
+      "nationality": "Indian",
+      "time": 1748225122739
+    },
+    {
+      "name": "Mukesh Kumar",
+      "type": "bowler",
+      "price": 7,
+      "team": "Delhi",
+      "nationality": "Indian",
+      "time": 1748225139787
+    },
+    {
+      "name": "Tushar Deshpande",
+      "type": "bowler",
+      "price": 5.5,
+      "team": "Purvanchal",
+      "nationality": "Indian",
+      "time": 1748225272323
+    },
+    {
+      "name": "Allah Ghazanfar",
+      "type": "bowler",
+      "price": 2,
+      "team": "Buster",
+      "nationality": "Overseas",
+      "time": 1748225309011
+    },
+    {
+      "name": "Mujeeb Ur Rahman ",
+      "type": "bowler",
+      "price": 1,
+      "team": "Amritsar",
+      "nationality": "Overseas",
+      "time": 1748225328379
+    },
+    {
+      "name": "Azmatullah Omarzai",
+      "type": "allrounder",
+      "price": 2,
+      "team": "Andhra",
+      "nationality": "Overseas",
+      "time": 1748225356187
+    },
+    {
+      "name": "Corbin Bosch ",
+      "type": "allrounder",
+      "price": 0.5,
+      "team": "Ahmedabad",
+      "nationality": "Overseas",
+      "time": 1748225388531
+    },
+    {
+      "name": "Rahmanullah Gurbaz",
+      "type": "wk",
+      "price": 0.55,
+      "team": "Buster",
+      "nationality": "Overseas",
+      "time": 1748225413435
+    },
+    {
+      "name": "Adam Zampa",
+      "type": "bowler",
+      "price": 0.5,
+      "team": "Andhra",
+      "nationality": "Overseas",
+      "time": 1748225485187
+    },
+    {
+      "name": "Donovan Ferreira",
+      "type": "wk",
+      "price": 0.3,
+      "team": "Andhra",
+      "nationality": "Overseas",
+      "time": 1748225658011
+    },
+    {
+      "name": "Mustafizur Rahman ",
+      "type": "bowler",
+      "price": 0.3,
+      "team": "Andhra",
+      "nationality": "Overseas",
+      "time": 1748225685235
+    },
+    {
+      "name": "Anshul Kamboj ",
+      "type": "allrounder",
+      "price": 1.25,
+      "team": "Purvanchal",
+      "nationality": "Indian",
+      "time": 1748225740403
+    },
+    {
+      "name": "Gerald Coetzee",
+      "type": "bowler",
+      "price": 0.9,
+      "team": "Purvanchal",
+      "nationality": "Overseas",
+      "time": 1748225772715
+    },
+    {
+      "name": "Moeen Ali",
+      "type": "allrounder",
+      "price": 1,
+      "team": "Andhra",
+      "nationality": "Overseas",
+      "time": 1748225821411
+    },
+    {
+      "name": "Ayush Mhatre",
+      "type": "batsman",
+      "price": 6,
+      "team": "Patna",
+      "nationality": "Indian",
+      "time": 1748225850835
+    },
+    {
+      "name": "Lungisani Ngidi",
+      "type": "bowler",
+      "price": 0.4,
+      "team": "Buster",
+      "nationality": "Overseas",
+      "time": 1748225901835
+    },
+    {
+      "name": "Nathan Ellis",
+      "type": "bowler",
+      "price": 1.25,
+      "team": "Andhra",
+      "nationality": "Overseas",
+      "time": 1748225933339
+    },
+    {
+      "name": "Akeal Hosein ",
+      "type": "allrounder",
+      "price": 0.4,
+      "team": "Buster",
+      "nationality": "Overseas",
+      "time": 1748225982187
+    },
+    {
+      "name": "Suryansh Shedge ",
+      "type": "allrounder",
+      "price": 1.25,
+      "team": "Patna",
+      "nationality": "Indian",
+      "time": 1748226113955
+    },
+    {
+      "name": "Simarjeet Singh",
+      "type": "bowler",
+      "price": 0.45,
+      "team": "Patna",
+      "nationality": "Indian",
+      "time": 1748226143299
+    },
+    {
+      "name": "Arshin Kulkarni",
+      "type": "allrounder",
+      "price": 0.65,
+      "team": "Purvanchal",
+      "nationality": "Indian",
+      "time": 1748227682654
+    },
+    {
+      "name": "Shaik Rasheed ",
+      "type": "batsman",
+      "price": 1.25,
+      "team": "Purvanchal",
+      "nationality": "Indian",
+      "time": 1748227704285
+    },
+    {
+      "name": "Swastik Chikara",
+      "type": "batsman",
+      "price": 1.25,
+      "team": "Purvanchal",
+      "nationality": "Indian",
+      "time": 1748227731389
+    },
+    {
+      "name": "Manimaran Siddharth",
+      "type": "bowler",
+      "price": 0.65,
+      "team": "Andhra",
+      "nationality": "Indian",
+      "time": 1748227843605
+    },
+    {
+      "name": "Vidhwath Kaverappa",
+      "type": "bowler",
+      "price": 0.3,
+      "team": "Ahmedabad",
+      "nationality": "Indian",
+      "time": 1748227917765
+    },
+    {
+      "name": "Prerak Mankad",
+      "type": "batsman",
+      "price": 0.3,
+      "team": "Ahmedabad",
+      "nationality": "Indian",
+      "time": 1748227961165
+    },
+    {
+      "name": "Yuvraj Chaudhary ",
+      "type": "allrounder",
+      "price": 0.3,
+      "team": "Andhra",
+      "nationality": "Indian",
+      "time": 1748227994982
+    },
+    {
+      "name": "Urvil Patel",
+      "type": "wk",
+      "price": 0.75,
+      "team": "Amritsar",
+      "nationality": "Indian",
+      "time": 1748228029589
     }
   ],
   "purse": {
-    "Delhi": 17.9,
-    "Amritsar": 6.249999999999999,
+    "Delhi": 7.399999999999999,
+    "Amritsar": 4.499999999999999,
     "Himachal": 44.3,
-    "Andhra": 7.55,
-    "Buster": 5.549999999999999,
-    "Ahmedabad": 12.45,
-    "Purvanchal": 24.5,
+    "Andhra": 1.2500000000000002,
+    "Buster": 2.1999999999999993,
+    "Ahmedabad": 11.349999999999998,
+    "Purvanchal": -0.7999999999999998,
     "Indore": -0.8499999999999996,
     "Meerut": 74.14999999999999,
-    "Patna": 20.15
+    "Patna": 6.699999999999998
   }
 }
